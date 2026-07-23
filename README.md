@@ -11,8 +11,10 @@
 | | Task 02 - Stack - Array |
 | | Task 03 - Queue - Linked List |
 | | Task 04 - Queue - Array |
-| 2026/07/03 | |
-| 2026/07/10 | |
-| 2026/07/17 | |
-| 2026/07/24 | |
-| 2026/07/31 | |
+| 2026/07/03 | Task 01 - BinarySearchTree |
+| 2026/07/10 | Task 01 - GraphLinkedList |
+| 2026/07/17 | Task 01 - Bubblesort |
+| | Task 02 - Insertionsort |
+| | Task 03 - Quicksort |
+| | Task 04 - Selectionsort |
+
